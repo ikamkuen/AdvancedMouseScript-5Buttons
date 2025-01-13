@@ -6,12 +6,18 @@ This is an AutoHotkey script designed to bind 19 extra functions like copy and p
 
 While [X-Mouse Button Control](https://www.highrez.co.uk/downloads/xmousebuttoncontrol.htm) also provides similar customization with a more user-friendly user interface, it doesn't allow you to use a button's original function after you set it as a modifier button. For example, if you set your forward button as a modifier button for a function layer, you cannot press it to use the forward function anymore. With AutoHotkey, using a button as a modifer while preserving its original function is possible.
 
+I have also made another version for 3-button mice, which can be found [here](https://github.com/ikamkuen/BasicMouseScript-3Buttons/tree/main).
+
 ## Requirements
 - [AutoHotkey](https://www.autohotkey.com/) installed computer
 - A 5-button mouse, which includes left button, right button, middle button, back button and forward button
 
 ## Installation
 After installing AutoHotkey on your computer, download the MouseHotkeys.ahk file to run it.
+### Set it to run on boot
+Having to click the script every time you want to use it can be annoying. To avoid this, you can set the script to run upon boot. Detailed setup guide for Windows can be found [here](https://support.microsoft.com/en-us/windows/configure-startup-applications-in-windows-115a420a-0bff-4a6f-90e0-1934c844e473).
+
+Hint: You can put shortcuts instead of the file itself into the startup folder
 
 ## Customization
 If you want to edit this script, open the script file with any text editor, such as Notepad or Notepad++, and edit as you like.

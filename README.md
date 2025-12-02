@@ -65,3 +65,28 @@ Hold backward, click middle: Task view (Win + Tab)
 Hold backward, scroll up: Switch to previous window (Alt + Shift + Tab)
 
 Hol backward, scroll down: Switch to next window (Shift + Tab)
+
+## Function Comparison
+|Function|BasicMouseScript-3Buttons|AdvancedMouseScript-5Buttons|
+|:-------|:-----------------------:|:--------------------------:|
+|Copy|✅|✅|
+|Paste|✅|✅|
+|Cut||✅|
+|Clipboard|✅|✅|
+|Undo||✅|
+|Redo||✅|
+|Select All||✅|
+|Forward|✅|✅(provided by OS by default)|
+|Backward|✅|✅(provided by OS by default)|
+|Scroll Left||✅|
+|Scroll Right||✅|
+|Find in page|✅|✅|
+|Open new tab||✅|
+|Close current tab||✅|
+|Switch to prev tab|✅|✅|
+|Switch to next tab|✅|✅|
+|Go to desktop||✅|
+|Close current application||✅|
+|Task view||✅|
+|Switch to prev window|✅|✅|
+|Switch to next window|✅|✅|
